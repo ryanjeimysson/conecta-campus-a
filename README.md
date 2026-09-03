@@ -4,3 +4,11 @@ Guia acadêmico de serviços, ambientes e recursos de acessibilidade.
 Versão inicial em construção durante o primeiro semestre de ADS.
 ## Autor
 Ryan Jeimysson
+
+## ROADMAP
+
+- Iniciando com a confecção do README.md
+- Adicionando novos dados ao README.md
+- Criar o primeiro HTML.
+- Inserir o primeiro CSS.
+- Trabalhar o primeiro evento JS.
